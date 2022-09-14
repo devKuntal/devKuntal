@@ -1,9 +1,17 @@
-<h2>Hello, I'm Kuntal!</h2>
+# Hello, I'm Kuntal!
 <img align="right" src="https://media.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif" width="200">
 <p><em>Front-End Developer</em></p>
-I'm a web developer specializing in front-end development and design. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.  
-<hr style="border:0; height:1px; background:#333">
+I'm a web developer specializing in front-end development and design. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.    
 
+* 🌍  I'm based in India
+* ✉️  You can contact me at [contact@kuntal.dev](mailto:contact@kuntal.dev)
+* 🚀  I'm currently working on [React Projects](http://)  
+* 🧠  I'm learning Backend Development
+* 🤝  I'm open to collaborating on React projects  
+
+<!-- <hr style="border:0; height:1px; background:#333"> -->
+
+## Skills  
 <p><b>Programming Language</b></p>
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -26,13 +34,21 @@ I'm a web developer specializing in front-end development and design. Having a r
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
     <img alt="VScode" src="https://img.shields.io/badge/-Visual_Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white" />
-</p>
-<h3><em>My Social Profiles</em></h3>
+</p>  
+
+## Social Profile  
+
 <p>
     <a herf="https://linkedin.com/in/devkuntal" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a herf="https://github.com/devkuntal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-000?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a herf="https://twitter.com/devkuntal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Twitter-1da1f2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a herf="https://dribbble.com/devkuntal" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-ea4c89?&style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
+
+## GitHub Stats
+ 
+<a href="http://www.github.com/devKuntal"><img src="https://github-readme-stats.vercel.app/api?username=devKuntal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devKuntal's GitHub stats" /></a>
+<a href="http://www.github.com/devKuntal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devKuntal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!---
 devKuntal/devKuntal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

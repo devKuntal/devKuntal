@@ -1,4 +1,4 @@
-<h2>Hello, I'm Kuntal!</h2>
+<h2>Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Kuntal!</h2>
 <img align="right" src="https://media.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif" width="200">
 <p><em>Front-End Developer</em></p>
 I'm a web developer specializing in front-end development and design. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.  

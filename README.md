@@ -1,9 +1,10 @@
 # Hello, I'm Kuntal!
 <img align="right" src="https://media.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif" width="200">
 <p><em>Front-End Developer</em></p>
-I'm a web developer specializing in front-end development and design. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.    
+I'm a web developer specializing in front-end development and design. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.  
+<p>&nbsp</p>
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * ✉️  You can contact me at [contact@kuntal.dev](mailto:contact@kuntal.dev)
 * 🚀  I'm currently working on [React Projects](http://)  
 * 🧠  I'm learning Backend Development

@@ -1,7 +1,7 @@
 # Hello, I'm Kuntal!
 <img align="right" src="https://media.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif" width="200">
-<p><em>Front-End Developer</em></p>
-I'm a web developer specializing in front-end development and design. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.  
+<p><em>Full Stack Developer</em></p>
+I'm a self-taught Full-stack web developer skilled in modern web development technologies & frameworks with a perticular focus on React and Node. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.I can develop and maintain complex web applications from start to finish and ensuring that they meet the heighest standerds quality and usablity. My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.  
 <p>&nbsp</p>
 
 * 🌍  I'm from India

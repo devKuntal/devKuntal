@@ -1,7 +1,7 @@
 # Hello, I'm Kuntal!
 <img align="right" src="https://media.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif" width="200">
 <p><em>Full Stack Web Developer</em></p>
-I’m a Full Stack Web Developer with a diverse set of technical skills to the table, including front-end development, back-end development, and database management. I have experience working with a variety of frameworks and libraries and have deployed applications to cloud providers.
+I’m a Full Stack Web Developer with a diverse set of technical skills and knowledge, including front-end development, back-end development, and database management. I have experience working with a variety of frameworks and libraries and have deployed applications to cloud providers.
 I’m happy to collaborate in open-source projects and am able to work effectively in team settings. If you are looking for a Full Stack Web Developer who is passionate, motivated, and skilled, I would love to connect and discuss how I can contribute to your team.  
 <p>&nbsp</p>
 

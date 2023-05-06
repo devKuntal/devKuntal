@@ -1,14 +1,14 @@
 # Hello, I'm Kuntal!
 <img align="right" src="https://media.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif" width="200">
-<p><em>Full Stack Developer</em></p>
-I'm a self-taught Full-stack web developer skilled in modern web development technologies & frameworks with a perticular focus on React and Node. Having a rich experience in building interactive, functional websites and web applications that are both user-friendly and highly responsive.I can develop and maintain complex web applications from start to finish and ensuring that they meet the heighest standerds quality and usablity. My passion is to explore new technologies and create meaningful, memorable experiences for users, focusing on the end-user experience.  
+<p><em>Full Stack Web Developer</em></p>
+I’m a Full Stack Web Developer with a diverse set of technical skills to the table, including front-end development, back-end development, and database management. I have experience working with a variety of frameworks and libraries and have deployed applications to cloud providers.
+I’m happy to collaborate in open-source projects and am able to work effectively in team settings. If you are looking for a Full Stack Web Developer who is passionate, motivated, and skilled, I would love to connect and discuss how I can contribute to your team.  
 <p>&nbsp</p>
 
 * 🌍  I'm from India
-* ✉️  You can contact me at [contact@kuntal.dev](mailto:contact@kuntal.dev)
-* 🚀  I'm currently working on [React Projects](http://)  
-* 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on React projects  
+* ✉️  You can contact me at [kmajhi.dev@gmail.com](mailto:kmajhi.dev@gmail.com)
+* 🚀  I'm currently working on [MERN Stack](http://)  
+* 🤝  I'm open to collaborating on MERN projects  
 
 <!-- <hr style="border:0; height:1px; background:#333"> -->
 
@@ -26,13 +26,13 @@ I'm a self-taught Full-stack web developer skilled in modern web development tec
      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
      <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
      <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat-square&logo=mui&logoColor=white" />
+     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <p><b>Others Tools I used</b></p>
 <p>
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
     <img alt="VScode" src="https://img.shields.io/badge/-Visual_Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white" />
 </p>  
